@@ -33,19 +33,20 @@ This project demonstrates basic full-stack development concepts including REST A
 ##  Project Structure
 
 student-task-manager/
-│
-├── backend/
-│ ├── server.js
-│ ├── package.json
-│ └── package-lock.json
-│
-├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-│
-├── .gitignore
-└── README.md
+
+── backend/
+── server.js
+── package.json
+ ── package-lock.json
+
+
+── frontend/
+ ── index.html
+ ── style.css
+ └── script.js
+
+── .gitignore
+── README.md
 
 
 
@@ -58,26 +59,24 @@ student-task-manager/
 git clone https://github.com/sukhmannk/student-task-manager.git
 cd student-task-manager
 
-2. Install backend dependencies
-bash
-Copy code
+### 2. Install backend dependencies
+
 cd backend
 npm install
 
-3️. Start the backend server
-bash
-Copy code
+### 3️. Start the backend server
+
 node server.js
 The server will run at:
 http://localhost:3000
 
-4️. Run the frontend
+### 4️. Run the frontend
 Open frontend/index.html in your browser
 OR
 
 Use Live Server in VS Code
 
-### Purpose of This Project
+## Purpose of This Project
 This project was created to:
 
 Practice full-stack web development fundamentals
@@ -88,7 +87,7 @@ Learn frontend–backend communication
 
 Demonstrate clean Git and project structure for entry-level roles
 
- Author
+ ## Author
 Sukhmandeep Kaur
 Computer Programming Diploma Graduate
 GitHub: https://github.com/sukhmannk
