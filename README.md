@@ -33,11 +33,13 @@ This project demonstrates basic full-stack development concepts including REST A
 ##  Project Structure
 
 student-task-manager/
+backend/
 
-── backend/
-── server.js
-── package.json
- ── package-lock.json
+server.js
+
+package.json
+  
+package-lock.json
 
 
 ── frontend/
