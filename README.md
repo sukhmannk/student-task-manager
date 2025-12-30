@@ -53,11 +53,11 @@ This project demonstrates basic full-stack development concepts including REST A
 ##  How to Run the Project Locally
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/sukhmannk/student-task-manager.git
 cd student-task-manager
 
-### 2. Install backend dependencies
+### 2. Install backend dependencies 
 
 cd backend
 npm install
