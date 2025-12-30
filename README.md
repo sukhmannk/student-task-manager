@@ -30,7 +30,7 @@ This project demonstrates basic full-stack development concepts including REST A
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
 student-task-manager/
 │
@@ -46,6 +46,7 @@ student-task-manager/
 │
 ├── .gitignore
 └── README.md
+
 
 
 ---
