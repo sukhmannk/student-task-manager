@@ -87,5 +87,7 @@ Demonstrate clean Git and project structure for entry-level roles
 
  ## Author
 Sukhmandeep Kaur
+
 Computer Programming Diploma Graduate
+
 GitHub: https://github.com/sukhmannk
